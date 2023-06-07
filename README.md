@@ -1,5 +1,5 @@
  <p align="center">
-  <img src="https://github.com/charvimehradu/charvimehradu/assets/121369234/068944dc-a456-4671-b538-f5d1a784ad71" alt="Charvi's Vision Board" height="400"/>
+  <img src="https://github.com/charvimehradu/charvimehradu/assets/121369234/068944dc-a456-4671-b538-f5d1a784ad71" alt="Charvi's Vision Board" height="400" width="600"/>
 </p>
 
 ###       Hi there 👋
