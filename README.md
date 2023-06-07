@@ -1,17 +1,11 @@
-### Hi there 👋
+ <p align="center">
+  <img src="https://github.com/charvimehradu/charvimehradu/assets/121369234/068944dc-a456-4671-b538-f5d1a784ad71" alt="Charvi's Vision Board"/>
+</p>
+ 
+
+
+
+###       Hi there 👋
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=charvimehradu&theme=dark)](https://git.io/streak-stats)
-<!--
-**charvimehradu/charvimehradu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about HTML/CSS
-- 📫 How to reach me: charvimehradu@gmail.com
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: ...
--->
