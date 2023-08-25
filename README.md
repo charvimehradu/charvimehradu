@@ -9,7 +9,7 @@
 #       Hi 👋
 
 <p align="justify">
-  I am currently a first-year undergraduate student at <a href="https://cic.du.ac.in/">Cluster Innovation Centre</a>  pursuing a degree in <b>Information Technology and Mathematical Innovation</b>. Since I was in eighth grade, I've been an enthusiastic web designer which has inspired me to always look for fresh, cutting-edge approaches to bringing concepts to life online. In order to continue developing both personally and professionally, I am constantly keen to broaden my skill set and delve into new areas of interest outside of web design. My days typically consist of a combination of education and leisure pursuits while I contribute to open source projects in the night time that keep me interested and motivated. You'll usually find me playing while I'm not working.
+  I am currently a second-year undergraduate student at <a href="https://cic.du.ac.in/">Cluster Innovation Centre</a>  pursuing a degree in <b>Information Technology and Mathematical Innovation</b>. Since I was in eighth grade, I've been an enthusiastic web designer which has inspired me to always look for fresh, cutting-edge approaches to bringing concepts to life online. In order to continue developing both personally and professionally, I am constantly keen to broaden my skill set and delve into new areas of interest outside of web design. My days typically consist of a combination of education and leisure pursuits while I contribute to open source projects in the night time that keep me interested and motivated. You'll usually find me playing while I'm not working.
 </p>
   
 <div align="center">
